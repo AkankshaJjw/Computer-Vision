@@ -1,2 +1,2 @@
 # Computer-Vision
-Various computer vision algorithms created from scratch.
+Various computer vision algorithms implemented from scratch in Python.
